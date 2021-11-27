@@ -1,5 +1,5 @@
 
-# This is a collection of all my repos and the index.md for displaying the implementations of the projects I have been doing from [The Odin Project](https://www.theodinproject.com/).
+# This is a collection of all my repos for displaying the implementations of the projects I have been doing from [The Odin Project](https://www.theodinproject.com/).
 
 
 ## The current list of projects that are in this repo are:
