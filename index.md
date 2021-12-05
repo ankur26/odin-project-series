@@ -9,3 +9,4 @@
 4. Etch-a-Sketch - [Live Preview](https://ankur26.github.io/etch-a-sketch/), [Git Repo](https://github.com/ankur26/etch-a-sketch)
 5. Calculator - [Live Preview](https://ankur26.github.io/calculator/), [Git Repo](https://github.com/ankur26/calculator)
 6. Library - [Live Preview](https://ankur26.github.io/bookshelf/), [Git Repo](https://github.com/ankur26/bookshelf)
+7. Tic-Tac-Toe - [Live Preview](https://ankur26.github.io/tic-tac-toe/), [Git Repo](https://github.com/ankur26/tic-tac-toe)
