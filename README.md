@@ -1,5 +1,5 @@
 
-# This is a collection of all my repos and the index.md for displaying the implementations of the projects I have been doing from [The Odin Project](https://www.theodinproject.com/).
+# This is a collection of all my repos for displaying the implementations of the projects I have been doing from [The Odin Project](https://www.theodinproject.com/).
 
 
 ## The current list of projects that are in this repo are:
@@ -9,3 +9,5 @@
 4. Etch-a-Sketch - [Live Preview](https://ankur26.github.io/etch-a-sketch/), [Git Repo](https://github.com/ankur26/etch-a-sketch)
 5. Calculator - [Live Preview](https://ankur26.github.io/calculator/), [Git Repo](https://github.com/ankur26/calculator)
 6. Library - [Live Preview](https://ankur26.github.io/bookshelf/), [Git Repo](https://github.com/ankur26/bookshelf)
+7. Tic-Tac-Toe - [Live Preview](https://ankur26.github.io/tic-tac-toe/), [Git Repo](https://github.com/ankur26/tic-tac-toe)
+8. Signup - [Live Preview](https://ankur26.github.io/signup-page-demo/), [Git Repo](https://github/ankur26/signup-page-demo)
