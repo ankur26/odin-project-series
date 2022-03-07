@@ -11,3 +11,4 @@
 6. Library - [Live Preview](https://ankur26.github.io/bookshelf/), [Git Repo](https://github.com/ankur26/bookshelf)
 7. Tic-Tac-Toe - [Live Preview](https://ankur26.github.io/tic-tac-toe/), [Git Repo](https://github.com/ankur26/tic-tac-toe)
 8. Signup - [Live Preview](https://ankur26.github.io/signup-page-demo/), [Git Repo](https://github.com/ankur26/signup-page-demo)
+9. Admin Dashboard - [Live Preview](https://ankur26.github.io/admin-dashboard-page/), [Git Repo](https://github.com/ankur26/admin-dashboard-page)
